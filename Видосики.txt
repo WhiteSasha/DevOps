@@ -1,0 +1,14 @@
+Что такое IP
+	https://www.youtube.com/watch?v=6tFGoiok0u8
+Что такое Docker
+	https://www.youtube.com/watch?v=aZTL2zRmOnA
+Модель OSI
+	https://www.youtube.com/watch?v=je0QFU7p5Oo
+Ethernet
+	https://www.youtube.com/watch?v=jLGadArowCE
+Маршрутизатор. Коммутатор. Хаб. Что это и в чем разница?
+	https://www.youtube.com/watch?v=Bwg-om5NnmQ
+DHCP
+	https://www.youtube.com/watch?v=XPRYaGCkXJ8
+DNS	
+	https://www.youtube.com/watch?v=t2NMbSarXC4
